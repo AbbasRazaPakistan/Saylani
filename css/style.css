@@ -1,0 +1,57 @@
+.bg_silver {
+  background-color: #eeeeee !important;
+}
+.language_button {
+  border: none;
+  background-color: #fff;
+}
+.saylani_logo {
+  height: 50px;
+}
+.button {
+  padding: 10px;
+
+  margin: 0px 5px;
+  border-radius: 5px;
+  text-wrap: nowrap;
+  transition: transform 0.2s;
+  outline: none;
+  border: none;
+}
+.button:hover {
+  transform: scale(1.1);
+}
+.btn_donate {
+  background-color: #0d6db7;
+  border: 1px solid #8dc63f;
+  color: #fff;
+}
+.btn_sponsor {
+  background-color: #8dc63f;
+  border: 1px solid #0d6db7;
+  color: #fff;
+}
+.button_explore {
+  padding: 15px 40px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  outline: 0;
+}
+.custom_bg {
+  background-image: url(../images/custom_bg.png);
+  object-fit: cover;
+}
+.quick_donate_contianer {
+  background-color: #e2f6c0;
+  border-radius: 10px;
+}
+.btn_x_padding {
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+  margin: 4px;
+  outline: none;
+}
+.white_placeholder::placeholder {
+  color: white;
+}

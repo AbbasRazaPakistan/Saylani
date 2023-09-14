@@ -1,0 +1,22 @@
+.media {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+.media__image {
+  margin-top: 1rem;
+}
+.media__body {
+  margin: 0 2rem;
+}
+.media__title {
+  margin-top: 0;
+}
+.icon-container {
+  background: #f3f9fa;
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
